@@ -106,9 +106,15 @@ header img {
     margin: 20px auto;
 }
 
+header h2 {
+    width: 90%;
+    margin: 0 0 10px 20px;
+}
+
 header p {
 
-width: 90%;    
+width: 90%;
+margin: 0 0 0 20px;    
     
 }
 
@@ -132,6 +138,10 @@ width: 90%;
     border-color: 1px solid red;
     border-bottom: 1px dashed;
     padding: 20px 0;
+}
+
+.strategy h2 {
+    margin: 15px 0;
 }
 
 button {
